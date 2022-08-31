@@ -1,6 +1,6 @@
 let navbar = document.getElementById('nav');
-let speakerThumb = document.querySelectorAll('.speaker-thumb');
-let speakerThumbOverlay = document.querySelectorAll('')
+// let speakerThumb = document.querySelectorAll('.speaker-thumb');
+// let speakerThumbOverlay = document.querySelectorAll('')
 
 let navBg = ()=>{
     if(window.scrollY != 0){
@@ -10,10 +10,10 @@ let navBg = ()=>{
     }
 }
 
-let showSpeakerDetail = ()=>{
-    speakerThumb.forEach(ele=>{
-        ele.childNodes[]
-    })
-}
+// let showSpeakerDetail = ()=>{
+//     speakerThumb.forEach(ele=>{
+//         ele.childNodes[]
+//     })
+// }
 
 addEventListener('scroll', navBg);
