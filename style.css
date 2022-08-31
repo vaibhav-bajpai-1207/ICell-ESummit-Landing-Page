@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap');
 @font-face{
+    src: url('./anurati_font/Anurati-Regular.otf');
     font-family: 'Anurati';
     font-style: normal;
     font-weight: 400;
